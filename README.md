@@ -1,2 +1,2 @@
-# DrGoProject1
+# DrGo-Practice1
 DrGoProject Practice
